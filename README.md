@@ -10,7 +10,7 @@ This project aims to simulate an expense tracker for an individual using the Fak
 - **Faker** (Synthetic Expense Data Generation)
   
 ## Domain
-The project operates within the **Financial Management** domain, focusing on **expense tracking and budget analysis**.
+The project operates within the **Financial Management** domain, focusing on **expense tracking and analysis**.
 
 ## Approach
 1. **Set up a Streamlit App** – Develop an interactive UI to input and visualize expenses.
